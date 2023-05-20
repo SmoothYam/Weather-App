@@ -1,4 +1,4 @@
-# OWeather-App
+# Weather-App
 This is basically a responsive weather application basically made by using HTML, CSS &amp; JavaScript.
 
 It gives insights of Temperatures, wind speed and Humidity.
